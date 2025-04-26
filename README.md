@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-hessen&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-hessen" /> </p>
 
-- 🌱 I’m currently learning **NextJs Tailwind**
+- 🌱 **NextJs Developer**
 
 - 👨‍💻 All of my projects are available at [https://mostafa-hessen.github.io/MyPortfolio/](https://mostafa-hessen.github.io/MyPortfolio/)
 
