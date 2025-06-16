@@ -7,8 +7,7 @@
 
 - 🌱 **NextJs Developer**
 
-- 👨‍💻 All of my projects are available at [https://mostafa-hessen.github.io/MyPortfolio/](https://mostafa-hessen.github.io/MyPortfolio/)
-
+<!--- 👨‍💻 All of my projects are available at [https://mostafa-hessen.github.io/MyPortfolio/](https://mostafa-hessen.github.io/MyPortfolio/)-->
 - 📫 How to reach me **mustafahussienatya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
